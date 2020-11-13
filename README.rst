@@ -40,7 +40,7 @@ Technical Details
 The modem is using OFDM over an audio cable with the following parameters:
 
 - Sampling rate: 8/16/32 kHz
-- Baud rate: 1 kHz
+- Baud rate: ~~1 kHz~~ 250 (This is because I am playing with the library to use it for HAM radio)
 - Symbol modulation: BPSK, 4-PSK, 16-QAM, 64-QAM, 256-QAM
 - Carriers: 2-11 kHz (up to ten carriers)
 
