@@ -5,7 +5,7 @@ import numpy as np
 
 class Configuration:
     Fs = 32000.0  # sampling frequency [Hz]
-    Tsym = 0.001  # symbol duration [seconds]
+    Tsym = 0.004  # symbol duration [seconds]
     Npoints = 64
     frequencies = [1e3, 8e3]  # use 1..8 kHz carriers
 
